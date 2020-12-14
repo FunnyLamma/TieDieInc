@@ -2,3 +2,9 @@ h1{
   color: rgb(165, 47, 47);
   text-align: center;
 }
+
+
+p {
+  color:rgb(0, 0, 0);
+  text-align: left;
+}
